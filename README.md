@@ -1,6 +1,11 @@
 # Maze generator
 
 **Prerequisites: JDK-21**
+Generates maze using 
+
+## Maze example
+![image](https://github.com/Daniil-Vl/maze-generator/assets/68438400/13dd46aa-80aa-4992-b167-0a0827d8a122)
+
 
 ## Getting started
 
